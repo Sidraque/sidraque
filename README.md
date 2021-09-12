@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, i'm Sidraque 👋
 
-<!--
-**Sidraque/sidraque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏼‍💻 Computer science student<br>
+🔭 iOS Developer
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/sidraque">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sidraque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidraque&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <i class="devicon-apple-original"></i>
+  <img align="center" alt="Sidraque-Swift" src="https://icongr.am/devicon/swift-original.svg?size=50&color=ffffff">
+  <img align="center" alt="Sidraque-Apple" src="https://icongr.am/devicon/apple-original.svg?size=50&color=ebebeb">
+  
+</div>
+<br>
+     
+ <a href="https://www.linkedin.com/in/sidraque/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
