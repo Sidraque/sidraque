@@ -1,7 +1,7 @@
 ### Hi, i'm Sidraque 👋
 
 👨🏼‍💻 Computer science student<br>
-🔭 iOS Developer
+🔭 Mobile Developer
 
 <div>
   <a href="https://github.com/sidraque">
@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <i class="devicon-apple-original"></i>
   <img align="center" alt="Sidraque-Swift" src="https://icongr.am/devicon/swift-original.svg?size=50&color=ffffff">
-  <img align="center" alt="Sidraque-Apple" src="https://icongr.am/devicon/apple-original.svg?size=50&color=ebebeb">
+  <img align="center" alt="Sidraque-Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   
 </div>
 <br>
