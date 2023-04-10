@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <i class="devicon-apple-original"></i>
   <img align="center" alt="Sidraque-Swift" src="https://icongr.am/devicon/swift-original.svg?size=50&color=ffffff">
-  <img align="center" alt="Sidraque-Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Sidraque-Flutter" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   
 </div>
 <br>
