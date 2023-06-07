@@ -12,8 +12,6 @@
 <div style="display: inline_block"><br>
   <i class="devicon-apple-original"></i>
   <img align="center" alt="Sidraque-Swift" src="https://icongr.am/devicon/swift-original.svg?size=50&color=ffffff">
-  <img align="center" alt="Sidraque-Flutter" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  
 </div>
 <br>
      
