@@ -11,8 +11,8 @@
 
 <div style="display: inline_block"><br>
   <i class="devicon-apple-original"></i>
-  <img align="center" alt="Sidraque-Swift" src="https://icongr.am/devicon/swift-original.svg?size=50&color=ffffff">
-  <img align="center" alt="Sidraque-C#" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor">
+  <img align="center" alt="Sidraque-Swift" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor">
+  <img align="center" alt="Sidraque-C#" src="">
 </div>
 <br>
      
