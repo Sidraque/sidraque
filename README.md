@@ -13,7 +13,7 @@
   <i class="devicon-apple-original"></i>
   <img align="center" alt="Sidraque-C#" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor">
   <img align="center" alt="Sidraque-Java" src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor">
-  <img align="center" alt="Sidraque-dot-net" src="  https://icongr.am/devicon/dot-net-original.svg?size=50&color=currentColor">
+  <img align="center" alt="Sidraque-dot-net" src="https://icongr.am/devicon/dot-net-original.svg?size=50&color=currentColor">
   <img align="center" alt="Sidraque-Swift" src="https://icongr.am/devicon/swift-original.svg?size=50&color=currentColor">
 </div>
 <br>
