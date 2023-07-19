@@ -1,7 +1,7 @@
 ### Hi, i'm Sidraque 👋
 
 👨🏼‍💻 Computer science student<br>
-🔭 Full Stack Developer
+🔭 Full Stack & Mobile Developer
 
 <div>
   <a href="https://github.com/sidraque">
