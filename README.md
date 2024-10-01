@@ -2,18 +2,18 @@
 
 👨🏼‍💻 **Computer Science Student**<br>
 📱 **iOS Developer** - Focused on **Swift**, **UIKit**, and **SwiftUI**<br>
-🔭 Full Stack Developer with passion for creating engaging and interactive mobile experiences
+🔭 Full Stack Developer passionate about building great user experiences
 
 ---
 
 ### 🚀 About Me
 
-I'm an enthusiastic iOS developer with a love for building intuitive and user-friendly applications using Swift. I enjoy tackling challenges using both **UIKit** and **SwiftUI**, whether it's implementing custom animations or designing seamless user experiences. My journey as a developer is driven by curiosity, creativity, and a constant desire to learn and grow.
+I'm an iOS developer who loves crafting beautiful and functional mobile applications. Whether it's using **UIKit** for custom, detailed designs or **SwiftUI** for modern, responsive interfaces, I enjoy every aspect of mobile development. My main goal is to create intuitive, user-friendly apps that solve real-world problems.
 
 ### 💡 My Stack
 
 - **iOS Development:** Swift, UIKit, SwiftUI
-- **Backend & Full Stack:** C#, Java, ASP.NET, and RESTful APIs
+- **Backend & Full Stack:** C#, Java, ASP.NET, REST APIs
 - **Other Tools:** Xcode, Git, Firebase
 
 ---
@@ -31,7 +31,6 @@ I'm an enthusiastic iOS developer with a love for building intuitive and user-fr
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Swift" src="https://icongr.am/devicon/swift-original.svg?size=50&color=currentColor">
-  <img align="center" alt="UIKit" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Apple_logo_black.svg" height="50">
   <img align="center" alt="C#" src="https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor">
   <img align="center" alt="Java" src="https://icongr.am/devicon/java-original.svg?size=50&color=currentColor">
   <img align="center" alt="ASP.NET" src="https://icongr.am/devicon/dot-net-original.svg?size=50&color=currentColor">
@@ -41,7 +40,7 @@ I'm an enthusiastic iOS developer with a love for building intuitive and user-fr
 
 ### 📫 Let's Connect!
 
-Feel free to reach out or check out my work on the following platforms:
+I'm always open to collaborating on exciting projects or just discussing mobile development:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidraque/)
 
@@ -49,13 +48,12 @@ Feel free to reach out or check out my work on the following platforms:
 
 ### 🌱 Currently Working On
 
-- Expanding my SwiftUI knowledge by working on **educational and AR-based apps**
-- Creating sleek and performant **iOS interfaces** using **Swift**, **UIKit**, and **SwiftUI**
-- Building real-world projects that leverage **Firebase** and other backend services for dynamic, data-driven mobile applications
+- Mastering **SwiftUI** and expanding my knowledge in **UIKit** for more dynamic iOS applications
+- Developing AR experiences and educational apps using **RealityKit** and **Swift**
+- Building interactive mobile projects with **Firebase** for a data-driven approach
 
 ### 🎯 Goals
 
-- Mastering advanced **SwiftUI** animations and custom **UIKit** components
-- Contributing to **open source** iOS projects and communities
-- Building a mobile portfolio app showcasing all my projects
-
+- Create advanced custom UI elements in **UIKit** and animations in **SwiftUI**
+- Contribute to open source projects related to iOS development
+- Publish an app that showcases my skills and contributes positively to the developer community
